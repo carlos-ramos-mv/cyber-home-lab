@@ -8,17 +8,13 @@ Cloud Security
 Projects
 ─────────────────────────────
 
-01	SOC Home Lab
+1. SOC Home Lab
     Sentinel • KQL • Sysmon • Windows
-
-02  Detection Engineering
+2. Detection Engineering
     Sigma • KQL • MITRE ATT&CK
-
-03  Incident Response Cases
+3. Incident Response Cases
     Investigation • IOC • Timeline
-
-04  SOAR Automation
+4. SOAR Automation
     Sentinel • Logic Apps • Python
-
-05  Azure Cloud Security
+5. Azure Cloud Security
     Entra ID • Identity • Cloud Logs
