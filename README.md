@@ -1,4 +1,5 @@
 # Cybersecurity / SOC Home Lab
+![COVER](/top-cover.png)
 The purpose of this home lab is to demonstrates the applied cybersecurity concepts within a controlled environment.
 
 * Security Operations
